@@ -27,7 +27,6 @@ public class Vehicle {
     public String getAddress() { return address; }
     public int getTime() { return time; }
 
-
     // Tính tiền gửi xe
     public double calculateFee(){
         int hours = getTime();
