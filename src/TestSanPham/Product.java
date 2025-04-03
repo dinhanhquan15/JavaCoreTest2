@@ -1,3 +1,5 @@
+package TestSanPham;
+
 public class Product {
     private String name;
     private String productId;

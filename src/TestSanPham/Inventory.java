@@ -1,3 +1,5 @@
+package TestSanPham;
+
 public class Inventory {
     private Product[] products;
     private int size;
