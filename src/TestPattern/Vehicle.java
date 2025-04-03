@@ -1,8 +1,5 @@
 package TestPattern;
 
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-
 public class Vehicle {
     private String ticketId;
     private String licensePlate;
